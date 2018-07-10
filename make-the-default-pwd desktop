@@ -1,6 +1,6 @@
 How to change the default pwd?
 
-type follow command:
+in user/desktop, type follow command:
 
 gedit ../.bashrc 
 
