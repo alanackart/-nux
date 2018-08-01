@@ -1,2 +1,3 @@
-# linux-command
-Userul Linux command
+# *nix related
+
+
