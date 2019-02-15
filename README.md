@@ -1,3 +1,3 @@
-# *nix related
+# *nux related
 devel/hello showcased how to generate a Makefile use automake tools
 
